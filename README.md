@@ -1,12 +1,14 @@
-# Mini Paint
+# 🎨 Mini Paint
 
-🎨 Mini Paint – Assembly-Based Drawing Program
-A lightweight graphics application built in Assembly that replicates core Microsoft Paint features. Users can:
+A lightweight graphics application built in Assembly that replicates core Microsoft Paint features.
 
-Draw straight lines
+## Features
+- 🖊️ Draw straight lines  
+- 🎨 Select and change colors  
+- 🪣 Fill enclosed areas with a chosen color  
 
-Select and change colors
+## Highlights
+- Written in low-level Assembly 
+- Demonstrates direct memory manipulation and user input handling  
+- Focus on performance and minimal resource usage
 
-Fill enclosed areas with a chosen color
-
-This project showcases low-level graphics programming, direct memory manipulation, and user input handling in Assembly.
